@@ -12,6 +12,14 @@ This is intentionally a very small program. The goal is NOT to write a lot of co
 
 ---
 
+## More Projects
+
+You can access this project and more in this seperate repository:
+
+[student-interview-prep](https://github.com/ShamShamsw/student-interview-prep.git)
+
+---
+
 ## The Importance of Comments
 
 > "Code tells you HOW. Comments tell you WHY."
